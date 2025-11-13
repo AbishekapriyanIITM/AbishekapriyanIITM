@@ -7,7 +7,7 @@
 - ⚡ Fun fact: ...Tom and Jerry fan
 
 
-Dumpground for my random projects
+Dump ground for my random projects
 
 <!---
 AbishekapriyanIITM/AbishekapriyanIITM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
